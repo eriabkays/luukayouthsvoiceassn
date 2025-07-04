@@ -89,7 +89,7 @@
             align-items: center;
             justify-content: center;
             text-align: center; 
-            background-image: url("../used\ pictures/images1.jpeg");
+            background-image: url('used pictures/images1.jpeg');
             background-repeat: no-repeat;
            background-position: center;
            background-size: cover;
@@ -165,7 +165,7 @@
             position: relative;
             min-height: auto;
 
-            background-image: url("../lyvass/used\ pictures/images3.jpeg");
+            background-image: url('used pictures/images3.jpeg');
             background-repeat: no-repeat;
            background-position: center;
            background-size: cover;
