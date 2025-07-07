@@ -35,6 +35,9 @@
          width:100%;
          max-width:800px;
          margin: 0 auto;
+         word-wrap:break-word;
+         width:min-content;
+           
         }
 
         .logo-img {
@@ -62,10 +65,7 @@
             padding-bottom: 2px;
             padding-right: 5px;
             flex: 3;
-            word-wrap:break-word;
-            overflow-wrap:break-wrap;
-         width:min-content;
-           
+            
         }
 
         .nav-links {
