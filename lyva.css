@@ -160,17 +160,20 @@
         }
 
         /* Programs Section */
+        .programs{
+         margin-bottom:40px;
+        }
         .programs-container {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 1rem;
             padding-top: 20px;
-            padding-bottom: 30px;
+            padding-bottom: 20px;
             padding-left: 10px;
             padding-right: 10px;
             position: relative;
             min-height: auto;
-         margin-bottom:40px;
+         
 
             background-image: url('https://eriabkays.github.io/luukayouthsvoiceassn/used pictures/images3.jpeg');
             background-repeat: no-repeat;
