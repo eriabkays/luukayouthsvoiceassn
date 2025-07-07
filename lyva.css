@@ -165,7 +165,7 @@
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 1rem;
             padding-top: 20px;
-            padding-bottom: 15px;
+            padding-bottom: 30px;
             padding-left: 10px;
             padding-right: 10px;
             position: relative;
