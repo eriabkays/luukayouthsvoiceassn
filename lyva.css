@@ -165,11 +165,12 @@
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 1rem;
             padding-top: 20px;
-            padding-bottom: 65px;
+            padding-bottom: 15px;
             padding-left: 10px;
             padding-right: 10px;
             position: relative;
             min-height: auto;
+         margin-bottom:40px;
 
             background-image: url('https://eriabkays.github.io/luukayouthsvoiceassn/used pictures/images3.jpeg');
             background-repeat: no-repeat;
