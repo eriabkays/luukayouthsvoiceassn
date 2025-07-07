@@ -59,6 +59,8 @@
             padding-bottom: 2px;
             padding-right: 5px;
             flex: 3;
+            word-wrap:break-word;
+            overflow-wrap:break-wrap;
            
         }
 
