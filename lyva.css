@@ -211,6 +211,7 @@
             transition: transform 0.3s;
             padding: 1rem;
             text-align: center;
+         position: relative;
         }
 
         .gallery-item:hover {
