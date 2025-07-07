@@ -35,8 +35,7 @@
          width:100%;
          max-width:800px;
          margin: 0 auto;
-         word-wrap:break-word;
-         width:fit-content;
+         
            
         }
 
@@ -177,6 +176,7 @@
            background-position: center;
            background-size: cover;
            height: 320px;
+         width:fit-content;
         }
 
         .program-card {
