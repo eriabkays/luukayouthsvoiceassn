@@ -34,7 +34,7 @@
             gap: 1rem;
          width:100%;
          max-width:800px;
-         margin: 0 auto;
+         
          
            
         }
@@ -64,7 +64,7 @@
             padding-bottom: 2px;
             padding-right: 5px;
             flex: 3;
-         width:min-content;
+         
             
         }
 
@@ -176,7 +176,7 @@
            background-position: center;
            background-size: cover;
            height: 320px;
-         width:fit-content;
+         
         }
 
         .program-card {
