@@ -64,6 +64,7 @@
             flex: 3;
             word-wrap:break-word;
             overflow-wrap:break-wrap;
+         width:min-content;
            
         }
 
