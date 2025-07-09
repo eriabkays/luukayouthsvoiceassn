@@ -63,17 +63,8 @@
           
         }
 
-        .logo-text {
-            color: white;
-            font-size: 20PX;
-            font-weight: bold;
-            padding-left: 5px;
-            padding-top: 2px;
-            padding-bottom: 2px;
-            padding-right: 5px;
-            flex: 3;
-         
-            
+        .org-name{
+         color: white;
         }
 
         .nav-links {
